@@ -12,7 +12,7 @@ Jupyter Notebook
 PowerPoint (for presentation: Project Data Visualization and Observations.pptx)
 
 📌 Key Features
-Data Cleaning: Handled missing values, duplicates, and outliers.
+Data Cleaning:  Handled missing values, duplicates, and outliers.
 
 Visualization: Plotted distributions, correlations, price maps, and review frequencies.
 

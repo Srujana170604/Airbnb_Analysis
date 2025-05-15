@@ -1,38 +1,75 @@
-Airbnb Analysis
-📊 Overview
-This project performs a comprehensive exploratory data analysis (EDA) on Airbnb listings data using Python. The primary aim is to gain insights into pricing, availability, and review trends based on location, host activity, and other variables.
+# Airbnb_Analysis
+# *Capstone-EDA-project-1-Airbnb-bookings-analysis*
 
-🧰 Tools & Technologies
-Python (Pandas, NumPy)
 
-Matplotlib & Seaborn (for visualizations)
+![AirBnb](https://user-images.githubusercontent.com/121340232/215006504-cacfdcbc-d047-495b-ba2a-994753957ab8.jpg)
 
-Jupyter Notebook
 
-PowerPoint (for presentation: Project Data Visualization and Observations.pptx)
+# Table Of Contents
+  
+  - [Introduction of Airbnb]
+  - [About the Dataset]
+  - [Python libraries used]
+  - [Project Work flow]
+  - [purpose of the analysis]
 
-📌 Key Features
-Data Cleaning:  Handled missing values, duplicates, and outliers.
 
-Visualization:  Plotted distributions, correlations, price maps, and review frequencies.
 
-Geospatial Analysis: Assessed price and availability patterns across locations.
 
-Host Analysis: Compared host types and their pricing strategies.
+## *Introduction of Airbnb*
 
-Review Analysis: Explored customer feedback volume and frequency.
+*    Airbnb is a popular online platform that allows individuals to list, discover, and book unique accommodations around the world. It was founded in 2008 by Brian Chesky, Joe Gebbia and Nathan Blecharczyk, and has since become the largest and most successful home-sharing companies in the world.
 
-📈 Notable Insights
-Certain neighborhoods consistently show higher pricing.
+*    Airbnb allows hosts to list their homes, apartments, or other properties for short-term rentals, and provides a platform for travelers to search for and book these accommodations. The platform includes a variety of listing types, including entire homes, private rooms, and shared rooms, and offers a wide range of price points to suit different budgets.
 
-Superhosts tend to have better reviews and higher occupancy.
+*    Airbnb has also become a popular choice for travelers who want to experience a destination like a local, rather than as a tourist. With more than four million listings in over 100,000 cities.
 
-Listing availability varies significantly by season and location.
 
-Visual patterns suggest pricing strategies differ by host experience and room type.
 
-📑 Presentation
-The PowerPoint file Project Data Visualization and Observations.pptx provides a visual summary of the analysis and major findings.
+## *About the Dataset – AIRBNB BOOKINGS*
 
-🔚 Conclusion
-This project offers meaningful insights into Airbnb’s market structure and can support decision-making for hosts, travelers, and Airbnb strategists alike.
+### Dataset Information
+* Number of instances: 48895
+* Number of attributes: 16
+
+*   The Data includes both categorical and numeric values, providing a diverse range of information about the listings.
+
+*   This Dataset may be useful for analyzing trends and patterns in the Airbnb market in New York and also gain insights into the preferences and behavior of Airbnb users in the area.
+
+*   This dataset contains information about Airbnb bookings in New York City in 2019. By analyzing this data, you may be able to understand the trends and patterns of Airbnb use in the NYC.
+
+
+
+## *Different Python libraries used to complete this EDA:*
+
+* Pandas
+
+* NumPy
+
+* Matplotlib.Pyplot
+
+* Seaborn
+
+
+
+## *Project Work flow*
+
+1. Importing Libraries
+
+2. Loading the Dataset
+
+3. explore Dataset
+
+3. Data Cleaning and manipulate
+
+4. Handling Outliers
+
+5. Data Visualization
+
+6. Conclusion
+
+
+
+## *The purpose of the analysis* 
+
+understanding the factors that influence Airbnb prices in New York City, or identifying patterns of all variables and Our analysis provides useful information for travelers and hosts in the city and also provides some best insights for Airbnb business.

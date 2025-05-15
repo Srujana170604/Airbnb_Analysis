@@ -14,7 +14,7 @@ PowerPoint (for presentation: Project Data Visualization and Observations.pptx)
 📌 Key Features
 Data Cleaning:  Handled missing values, duplicates, and outliers.
 
-Visualization: Plotted distributions, correlations, price maps, and review frequencies.
+Visualization:  Plotted distributions, correlations, price maps, and review frequencies.
 
 Geospatial Analysis: Assessed price and availability patterns across locations.
 
